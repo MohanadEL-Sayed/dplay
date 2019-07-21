@@ -1,4 +1,4 @@
-token=NTQ2Mjg5NzA2MzQ2ODcyODMz.D0mDhg.fdqON4f4CIZF9Ac9hxo-w02-LbQ
+token=NTQ2Mjg5NzA2MzQ2ODcyODMz.XTTZ2g.WSXmuq6fXseFs7ojXf8I9LV1HfU
 owner=423028113535008788 
 prefix=d
 game=Type Dplay
